@@ -4,9 +4,10 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "7b00117b192041d84df6d19417b18220",
-"index.html": "481b34d49ef3dde671eb9ffa72c125c8",
-"/": "481b34d49ef3dde671eb9ffa72c125c8",
+"index.html": "eb386f3f6686ee1ba040292e7b3e4811",
+"/": "eb386f3f6686ee1ba040292e7b3e4811",
 "main.dart.js": "469ab37f289320ec8308ff53980bf17c",
+"flutter.js": "195f32f4217e034162a6697208586f44",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -32,11 +33,11 @@ const RESOURCES = {
 "assets/assets/images/location_fill.png": "ee6d6aed577a81600d69befff66e8ad9",
 "assets/assets/images/app_icon.png": "08dc9b2c6169490584eac21c35d733c8",
 "assets/assets/images/droplet.png": "97cd94a3eb5650fab2deab668681b519",
-"assets/assets/images/energy_income.png": "e3d821d1e62b5166c017a43d987e5e19",
+"assets/assets/images/energy_income.png": "6bf896a1f9c0c8295946aeb431a38647",
 "assets/assets/images/location_fill_grey.png": "1f9b79562f46146ca0cba4131f5d4e44",
 "assets/assets/images/account_circle.svg": "895853c26b3d08907aeeff0c8295cec4",
 "assets/assets/images/ev_station.svg": "83f9582f724bdbe01bf24f213a103111",
-"assets/assets/images/energy_outcome.png": "7fc2e40466511fffb153ac0c8f4fbb64",
+"assets/assets/images/energy_outcome.png": "8239afa3d956c3bad54b98de5825b7ec",
 "assets/assets/images/logo.png": "19565c86a646dbfeba64b553048c2bf0",
 "assets/assets/images/logo_opacity.png": "935696e91718e766041dfde2b1d87260",
 "assets/assets/images/battery_charging.svg": "1884442c158798fb025dea7cee17b980",
@@ -45,7 +46,11 @@ const RESOURCES = {
 "assets/assets/images/contact_mail.svg": "ec4c21d40c8009a284472bf15ebe92e3",
 "assets/assets/images/saldo_wykres.png": "a71b3bad31a75fdf3b9a6d3c6a2117fc",
 "assets/assets/languages/pl-PL.json": "f00e0c3b0928a20352aba8010ee9c211",
-"assets/assets/languages/en-US.json": "3c13f5f01f5a6f04420a151e3a610ef6"
+"assets/assets/languages/en-US.json": "3c13f5f01f5a6f04420a151e3a610ef6",
+"canvaskit/canvaskit.js": "687636ce014616f8b829c44074231939",
+"canvaskit/profiling/canvaskit.js": "ba8aac0ba37d0bfa3c9a5f77c761b88b",
+"canvaskit/profiling/canvaskit.wasm": "05ad694fda6cfca3f9bbac4b18358f93",
+"canvaskit/canvaskit.wasm": "d4972dbefe733345d4eabb87d17fcb5f"
 };
 
 // The application shell files that are downloaded before a service worker can
