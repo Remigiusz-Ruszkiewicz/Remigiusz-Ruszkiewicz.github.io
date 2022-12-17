@@ -4,10 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "7b00117b192041d84df6d19417b18220",
-"index.html": "a0a4f0411e958fdb1f6966e5c56c684c",
-"/": "a0a4f0411e958fdb1f6966e5c56c684c",
+"index.html": "deba1403326f72b9c74454f400abc36c",
+"/": "deba1403326f72b9c74454f400abc36c",
 "main.dart.js": "b8d4983e3093915488becd5ed1964ad2",
-"flutter.js": "195f32f4217e034162a6697208586f44",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -45,12 +44,8 @@ const RESOURCES = {
 "assets/assets/images/location.png": "0a45f2f43e224a7815a5579ce46dfa25",
 "assets/assets/images/contact_mail.svg": "ec4c21d40c8009a284472bf15ebe92e3",
 "assets/assets/images/saldo_wykres.png": "a71b3bad31a75fdf3b9a6d3c6a2117fc",
-"assets/assets/languages/pl-PL.json": "f00e0c3b0928a20352aba8010ee9c211",
-"assets/assets/languages/en-US.json": "3c13f5f01f5a6f04420a151e3a610ef6",
-"canvaskit/canvaskit.js": "687636ce014616f8b829c44074231939",
-"canvaskit/profiling/canvaskit.js": "ba8aac0ba37d0bfa3c9a5f77c761b88b",
-"canvaskit/profiling/canvaskit.wasm": "05ad694fda6cfca3f9bbac4b18358f93",
-"canvaskit/canvaskit.wasm": "d4972dbefe733345d4eabb87d17fcb5f"
+"assets/assets/languages/pl-PL.json": "85afd57e732c424f9488b4068d56eb36",
+"assets/assets/languages/en-US.json": "6a822869d2bf09684b23579574542d15"
 };
 
 // The application shell files that are downloaded before a service worker can
